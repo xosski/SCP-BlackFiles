@@ -1,0 +1,81 @@
+Item #: SCP-████
+
+Object Class: Keter
+
+Special Containment Procedures:Agent Xosski, codename "Sleep," is to be monitored at all times following his extraction from Site-13. Any anomalous activity related to temporal displacement, memory inconsistencies, or anti-memetic phenomena is to be documented immediately. Personnel assigned to Agent Sleep must undergo regular mnestic reinforcement (Class W-Z) to ensure continuity of perception. In the event of a containment breach, MTF Alpha-1 ("God's Red Right Hand") is authorized to enact immediate termination protocols.
+All transmissions originating from Agent Sleep are to be analyzed for temporal distortions, anomalous radio frequencies, and cognitohazardous effects.
+
+Description:
+Agent Xosski, a former operative of MTF Tau-5 "Samsara", was recovered from Site-13 (SCP-1730) during a classified extraction mission. Unlike the rest of Tau-5, whose members undergo cybernetic resurrection procedures, Agent Sleep's enhancements derive from an anomalous symbiotic entity integrated into his physiology. This entity grants him heightened regenerative abilities, temporal resistance, and cognitohazard immunity, but also appears to be a key factor in the temporal distortions and memory anomalies surrounding him.
+
+Following his retrieval from Site-13, Agent Sleep has exhibited repeated incidents of looped conversations, unexplained teleportation, and severe continuity mismatches in perception, particularly in interactions with Dr. Anna Levine—a senior Foundation researcher and, reportedly, Agent Sleep’s long-time partner. Dr. Levine, however, maintains no recollection of ever meeting Agent Sleep.
+
+Recovered Interview Log
+
+Date: ██/██/████
+Location: Site-19, Interview Room 4
+
+[BEGIN LOG]
+
+Dr. Levine: Agent Xosski, please state your name and designation for the record.
+
+Agent Sleep: Anna, please. It's me. You know who I am.
+
+Dr. Levine: (Pauses.) You were recovered from Site-13. Standard protocol requires debriefing. Answer the question, please.
+
+Agent Sleep: (Agitated.) Debriefing? You’re acting like we’ve never met. Anna, we’ve been together for eight years. We were at Site-19 together. Budapest. The accident at Site-██. Your birthday—
+
+Dr. Levine: I don't know what you’re talking about, Agent. I have no record of any personal involvement with you.
+
+Agent Sleep: (Breathing heavily.) No. No, this isn’t right. You do know me. This is the anomaly—it's from Site-13. It’s the loop. It’s—
+
+Dr. Levine: (To security personnel outside.) I believe we may need a memory assessment. Agent Xosski appears to be experiencing post-exposure cognitive dissonance. Recommend Class-A amnestics—
+
+Agent Sleep: NO! That’s what they want! That’s what the loop does! I remember. I remember everything because of my symbiote. But you—(Shakes head.) You’re stuck. They took your memories. Or worse, you’re not even you.
+
+(A pause. Static briefly overtakes the audio feed. A voice is heard—unintelligible at first, then distinctly saying, "Red Right Hand… Securing… Site-19…")
+
+Agent Sleep: (Shaking, whispering.) Oh God.
+
+Dr. Levine: (Calmly.) Security, please restrain the subject.
+
+(At this point, MTF Alpha-1 "God's Red Right Hand" enters the room. The recording is briefly interrupted by a burst of static. When audio resumes, automatic weapon fire is heard.)
+
+[END LOG]
+
+Incident Report: Site-42 - Anomalous Continuity Event
+
+Location: Site-42, Break Room
+Date: ██/██/████
+
+Summary: Despite recorded termination at Site-19, Agent Sleep was observed alive and unharmed in the break room at Site-42, sitting across from Dr. Levine. The following conversation was transcribed.
+
+Dr. Levine: You seem tense, Agent. Have some coffee.
+
+Agent Sleep: (Quietly.) …I died. I remember it. I remember being shot. I was just at Site-19. You were there. You watched them—
+
+Dr. Levine: (Stirring sugar into her cup.) You’re being paranoid. We’ve been here the whole time. There was no Site-19 interview. No one died.
+
+Agent Sleep: (Trembling.) You really don’t remember, do you? We were together. I love you. I always have. And I’ll tear apart time itself to fix this.
+
+Dr. Levine: (Expression unreadable.) I see forever?
+
+Agent Sleep: (Nods.) Forever.
+
+(Dr. Levine reaches for the site radio. She calmly speaks into it.)
+
+Dr. Levine: Site-42 Command, this is Dr. Levine. Authorization Victor-42-Omicron. Detonate the on-site warhead.
+
+(A long silence. Then static.)
+
+[END LOG]
+
+Final Notes
+
+Agent Sleep's status is UNKNOWN.
+
+Containment teams dispatched to Site-42 post-detonation found no trace of Dr. Levine, Agent Sleep, or any personnel assigned to the facility. Security footage recovered from Site-19 still shows Agent Sleep's apparent execution, yet he continues to manifest at various Foundation sites with complete memory retention. Further research into the connection between Site-13, the time loop anomaly, and Agent Sleep’s symbiotic nature is ongoing.
+
+Given the possibility that reality itself is experiencing non-linear restructuring, Containment Priority: Critical. Under no circumstances is Agent Sleep to be allowed direct contact with Dr. Levine, as repeated interactions appear to accelerate the instability.
+
+Pending Review by O5 Command.

@@ -1,0 +1,58 @@
+Item #: SCP-XXXX
+
+Object Class: Euclid (Potential upgrade to Keter under review)
+
+Special Containment Procedures:
+The sole known VHS recording of Covens Cove is to be stored in a secure media containment locker at Site-██.
+Testing of SCP-XXXX may only be conducted on Class-D personnel with Level 3 clearance or higher, under controlled conditions.
+All recording equipment used during testing must be analog and supervised by two senior researchers. No digital duplication is permitted.
+In the event of a containment breach involving character “Moxxee,” on-site armed response teams are authorized to terminate all compromised equipment and personnel to prevent further spread.
+
+Personnel exposed to SCP-XXXX media must undergo mandatory psychological screening and 30 days of observation. Children are strictly prohibited from exposure.
+
+Description:
+SCP-XXXX refers to a children’s television program known as Covens Cove, broadcast briefly in the early 1980s. No official production records, studio credits, or distribution listings exist for the series, and the Foundation has identified only a single surviving VHS recording, currently in containment.
+
+The show depicts puppet characters styled as pirates and corsairs, delivering moral lessons and practical skills in a manner consistent with children’s educational programming of the era. However, SCP-XXXX exhibits anomalous properties during playback:
+
+The program adapts to its environment, gradually integrating aspects of the viewer’s real-world surroundings and personal life into its narrative.
+
+Initially benign lessons (e.g., “tying sailor’s knots,” “building a campfire”) degrade into increasingly violent and manipulative instructions.
+
+Children exposed to SCP-XXXX are encouraged to engage in harmful actions toward family members, peers, and authority figures under the guise of “resolving conflict.”
+
+Notable puppet characters include:
+
+Tumtil — The pirate captain, frequently depicted as intoxicated.
+
+Moxxee — A gender-ambiguous “seductress” puppet, frequently breaking the fourth wall and noted for hostility.
+
+Jettann — A sharpshooter using improvised rubber-band firearms.
+
+Mettallo — A shipwright character, pragmatic and obsessive about “business.”
+
+During extended exposure tests, SCP-XXXX characters have demonstrated the ability to:
+
+Provide instructions for the creation of improvised explosives and firearms.
+
+Integrate names, faces, and behaviors of individuals personally known to the viewer.
+
+Exhibit apparent awareness of sensitive or classified personal information.
+
+Addendum XXXX-1 — Moxxee Incident:
+During controlled playback on ██/██/20██, puppet “Moxxee” manifested outside of the recording, breaching containment through audiovisual equipment. The entity whispered phrases directly related to classified misconduct of Researcher █████ Charly, including:
+
+“I’m right here silly, do me like you did your wife.”
+
+Subsequent investigation revealed Charly had a sealed record of spousal homicide unknown to most Foundation staff. How SCP-XXXX acquired this knowledge remains unexplained.
+
+Moxxee displayed hostile behavior toward staff and equipment before dissipating when all recording devices were terminated.
+
+Addendum XXXX-2 — Recovery:
+Foundation records indicate SCP-XXXX was recovered from a private estate sale in ███████, Ohio, following multiple reports of “children playing pirate games with real weapons.” Local police investigations into several juvenile-related fatalities were inconclusive.
+
+Notes:
+
+Proposal to reclassify SCP-XXXX as Keter pending further evidence of autonomous manifestation.
+
+Cross-testing with memetic hazard protocols is under review.

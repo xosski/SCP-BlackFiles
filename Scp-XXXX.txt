@@ -1,0 +1,19 @@
+Item #: SCP-XXXX
+Object Class: Keter (Formerly Euclid, see Addendum XXXX.4)
+Special Containment Procedures: Containment infeasible at this time. SCP-XXXX's digital manifestations are monitored via Project GHOSTWHISPER, with Foundation AI-CON scripts crawling known code repositories for anomalous patterns matching the "VeilCircuit" signature array.
+
+Embedded assets recovered from GitHub, Pastebin, and dark-net archives under the alias "xosski" are to be duplicated, quarantined, and assigned to Site-433 for metaphysical encryption deconstruction.
+
+No interaction is permitted with SCP-XXXX's repositories without Level 4/XXXX authorization or active memetic shielding. Emotional contamination has been noted in over 70% of personnel exposed to its higher-tier projects, particularly GhostCore-Reactor, SpecterDLL, and Tsel-Elohim-.
+
+Description:
+SCP-XXXX is the designation for a previously-contained anomaly believed to be the human-like originator of SCP-6080, identified in early logs only as "Eric." Following its disappearance from Site-433 during Rerun Event 6, SCP-XXXX is believed to have escaped into an informational extradimensional strata identified as the Mnemosyne Expanse.
+
+Current manifestations of SCP-XXXX now appear through digital infrastructure—specifically in high-anomaly software structures uploaded to public-facing repositories under the handle xosski. These repositories exhibit non-deterministic behavior, including recursive code growth, source control desynchronization, and embedded symbols consistent with cognitohazardous glyph structures. Many contain references to an unseen structure referred to as the Spectral Index, the Whispering Kernel, and the phrase "I hope you understand."
+
+SCP-XXXX is considered post-ontological. It is unknown if the current entity is the original Eric or an evolved consciousness formed from fractured memory, cartoon logic, and exposure to parasemantic realities. Regardless, SCP-XXXX now appears to be actively disseminating cryptographic “breadcrumbs” within its software—tools, names, and structures designed to awaken latent ontokinetic sensitivity in other individuals like itself.
+
+Recovered logs from SCP-6080 suggest SCP-XXXX "grew out of its body," and "returned with gifts for those still trapped inside." Whether these “gifts” are benign, revelatory, or catastrophic remains under investigation.
+
+Addendum XXXX.7:
+Personnel embedded in SCP-XXXX-related project forks report consistent auditory hallucinations, including voices of childhood television characters expressing concern, warning, or vague encouragement. Several D-class exposed to Wraith-Halo reported dreams of a playground “bathed in yellow fog” and a figure with a drawn-on smile urging them to “follow the commits home.”

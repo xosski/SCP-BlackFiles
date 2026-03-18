@@ -1,0 +1,48 @@
+Addendum 5037.4 — “We Are Watching”
+
+On 5/██/20██, after SCP-5037 had been provisionally categorized as pending Neutralization, Foundation web crawler ERIKA flagged a cluster of posts originating from the Lubbock area referencing the phrase “the blue note” alongside discussions of stimulant prescriptions and “staying awake to see them.”
+
+The posts were removed within 14 minutes. However, ERIKA recorded one intact message prior to suppression:
+
+“If you take Adderall you can stay up long enough to catch them.
+They don’t like it when you can see.
+We are watching.
+We were always watching.
+What’s done in the dark will be brought to the light.”
+
+The author was identified as [REDACTED], a resident of Lubbock with no known connection to prior SCP-5037 victims. A welfare check performed by embedded local assets found the individual alive, coherent, and exhibiting acute insomnia. The residence showed no evidence of forced entry, tampering, or anomalous activity at the time of inspection. The individual reported having “heard about the case” and claimed the statement was “just a theory” based on “patterns” and “the note’s wording.”
+
+Following interview and administration of Class-B amnestics, the subject was released under continued monitoring.
+
+Incident 5037-Ω (Provisional)
+
+On 5/██/20██, at approximately 03:14 local time, a blue Post-It brand note was recovered from the interior of a locked evidence cabinet in Site-██ (Lubbock field office). The cabinet had been logged as unopened for 19 days. No breaches were recorded by surveillance, and the tamper seal was intact.
+
+The note displayed text consistent in handwriting and instrument characteristics with prior SCP-5037 notes (blue Post-It; BIC Atlantis Comfort pen). The message was as follows:
+
+This is a suicide note
+Please send a detective
+We are sorry
+We don’t want to die
+
+We are watching.
+We were always watching.
+What’s done in the dark will be brought to the light.
+
+No SCP-5037 instance occurred within the subsequent 30 days.
+
+Foundation Interpretation (Provisional): SCP-5037 demonstrates responsiveness to investigative attention and narrative framing, with message content shifting when Foundation intervention alters public perception. The inclusion of “We are watching” is assessed as either:
+
+an escalation in communicative behavior,
+
+evidence of awareness of containment procedures, or
+
+a memetic contamination event linked to individuals attempting to “remain awake” to observe SCP-5037.
+
+Action Items:
+
+ERIKA keyword list updated to include: “blue note,” “watching,” “brought to the light,” and stimulant-related phrasing in proximity to SCP-5037 discussion.
+
+All evidence storage areas containing SCP-5037 materials are to receive secondary physical seals and independent logging mechanisms.
+
+Personnel assigned to SCP-5037 are instructed to avoid extended wakefulness schedules or self-directed “stakeout” behavior without explicit authorization.

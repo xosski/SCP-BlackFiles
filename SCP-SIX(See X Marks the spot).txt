@@ -1,0 +1,65 @@
+Item #: SCP-SIX ("See X Marks the Spot")
+
+Object Class: Keter (Pending Review)
+
+Special Containment Procedures:
+Due to SCP-SIX’s elusive and non-stationary nature, traditional containment is currently impossible. Efforts are ongoing to triangulate SCP-SIX’s position through satellite anomalies, auditory signal tracing, and limited psychic residue sampling from recovered escapees. All individuals who claim to have "arrived" at or "returned" from SCP-SIX are to be immediately detained for debriefing, Class-B amnestics, and long-term observation.
+
+Embedded assets in naval intelligence and international shipping registries are instructed to flag any incident reports describing:
+
+sudden untraceable fog banks,
+
+looped auditory hallucinations involving pirate-related commands,
+
+large-scale civilian disappearances near open water,
+
+or spontaneous beachside riots.
+
+Under no circumstances should any Foundation personnel respond to audio transmissions using the phrase:
+
+"We run the night."
+
+Personnel currently unaccounted for during Incident SIX-Breach-07 are presumed [DATA EXPUNGED] until further notice.
+
+Description:
+SCP-SIX refers to an anomalous maritime zone manifesting as an island of unknown geographical coordinates. The island appears to intermittently "collect" human individuals—designated as "players"—through unknown teleportation events, often occurring during periods of high-stress, unconsciousness, or auditory hallucination. Victims report finding themselves fully equipped with archaic weapons and crude navigational tools upon arrival.
+
+Visual descriptions of the island are inconsistent, but common elements include:
+
+Dense, jungle-like interior foliage.
+
+Abandoned structures resembling 18th-century pirate forts.
+
+A visible "command and control" structure on an adjacent isle.
+
+Frequent sightings of an anomalous pirate vessel permanently anchored offshore.
+
+Most disturbingly, several returning agents described a pervasive audio anomaly, described as "an all-encompassing soundscape" featuring combat noises, distorted sea shanties, alarm sirens, and loud declarations such as:
+
+"We run the night."
+
+This audio can be heard regardless of terrain, weather conditions, or physical damage to auditory systems. Some victims report suffering from long-term tinnitus or spontaneous nosebleeds when exposed to similar frequencies after returning.
+
+Current Status:
+SCP-SIX is considered active and hostile. Attempts to enter voluntarily have resulted in permanent disappearance of all test subjects and devices. A minimum of ██ Foundation personnel are believed to be trapped within SCP-SIX following Incident NightRiot. Communication with these individuals has proven sporadic and potentially compromised.
+
+Due to classified details obtained from Agent ██ ("Sleep") and Operative [REDACTED], the following information is authorized for Level 4 clearance and above:
+
+The "command and control" room is real.
+
+A mass event referred to as "The Melee" is ongoing and possibly recursive.
+
+Several anomalous entities—some previously catalogued as SCP-███, SCP-███, and SCP-████—have been identified as participants or arena champions.
+
+Temporal looping and localized reality destabilization are likely.
+
+Addendum 6-A: Recovered Transmission
+Date: [REDACTED]
+Source: Decommissioned marine distress frequency 419.66 MHz
+
+[STATIC]—they’re not players—they’re looting real buildings—real fire—someone turned off the exit node—
+We don’t know if it’s a game or a trap or both—
+—the ship is here again—
+"WE RUN THE NIGHT"—
+
+Transmission ends.

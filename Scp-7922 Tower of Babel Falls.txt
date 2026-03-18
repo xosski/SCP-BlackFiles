@@ -1,0 +1,67 @@
+Item #: SCP-7922
+Object Class: Keter (Pending review for Thaumiel classification due to potential containment applications)
+
+Special Containment Procedures:
+All written documentation of SCP-7922 must be filtered through Foundation-developed Semetic Stabilization Protocols (SSP) before storage or dissemination. Testing with SCP-7922 is restricted to Sites equipped with Class-VI Memetic Safety Chambers.
+
+Personnel exposed to SCP-7922 linguistic structures are to undergo immediate quarantine and cognitive scrub. Use of homophones, homonyms, and polysemic phrasing in Foundation communication is prohibited unless explicitly authorized by O5 Command.
+
+Mnestics and amnestics may be deployed simultaneously to stabilize cognitive drift during testing. All Foundation personnel interacting with SCP-7922 are to carry Lexeme-Index Tokens — pocket dictionaries bound with thaumaturgical anchoring — to prevent conceptual bleed.
+
+Foundation AIC [REDACTED] monitors global communications for anomalous density of SCP-7922-patterned speech. Any cluster exceeding baseline linguistic entropy levels by >3.7% triggers a Foundation lockdown protocol and Class-B disinformation campaign (“grammar war” narratives).
+
+Description:
+SCP-7922 refers to a self-sustaining memetic-antimemetic linguistic collapse manifesting through ambiguous words, homophones, and polysemic constructions. Exposure causes semantic instability, wherein meaning diverges based not only on wording but on emotional context, speaker intent, and cognitive resonance.
+
+This effect can transform communication into a malware vector, weaponizing ambiguity:
+
+“Fall” may invoke the season, a descent, or eschatological collapse.
+
+“Bang” may signal sex, violence, or consumption (see Incident 7922-Ω).
+
+“Son/Sun” merges religious, cosmic, and familial referents, destabilizing identity.
+
+The anomaly mirrors biblical accounts of the Tower of Babel (Genesis 11:1–9). It is currently unknown whether SCP-7922 is a direct survivorship of that event or a modern resurgence/variant. SCP-7922 functions as a self-sustaining prophecy, accelerating entropy in linguistic systems and resisting re-stabilization of language.
+
+Hypothesis: The original Tower of Babel event was not divine punishment but the first documented memetic collapse cascade. SCP-7922 represents a metastable fragment, capable of triggering a global XK-Class “Meaning Erosion” scenario.
+
+Addendum 7922-1 — Example Text
+Recovered from a cognitohazardous children’s primer confiscated in ████████:
+
+“The son(sun) woke early to(two). Sow(so) all the lost one(won). To(too) all this may concern.”
+
+Field analysis indicates simultaneous interpretations:
+
+Religious prophecy regarding “the Son.”
+
+Agricultural directive involving planting/sowing.
+
+Military command to mobilize troops.
+
+Eschatological announcement of final collapse.
+
+All are true depending on the reader’s cognitive-emotional state at time of parsing.
+
+Addendum 7922-2 — Incident Log 7922-Ω:
+During controlled SCP-7922 testing, Researcher ██████ attempted to issue a stabilized command phrase:
+
+“Initiate test at two.”
+
+Resulting interpretations by separate observers:
+
+Initiate test at the second location.
+
+Initiate test with two subjects.
+
+Initiate test too early (premature start).
+
+Initiate Test-2 (classified antimemetic protocol).
+
+The outcome led to simultaneous activation of unrelated containment systems across Site-██, breaching ██ SCP objects. Estimated containment breach cost: 93 million USD and ██ casualties.
+
+Addendum 7922-3 — Containment Potential:
+Some Foundation linguists propose SCP-7922 may serve as a Thaumiel-class defense — turning hostile communication incomprehensible to enemies. However, O5 Council notes this mirrors the same destabilization that “toppled Babel” and warns of irreversible linguistic entropy.
+
+Note from Dr. █████:
+
+Language was the first technology. Now it’s the first virus. The Tower didn’t fall once. It’s falling still.

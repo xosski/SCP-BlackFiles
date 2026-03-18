@@ -1,0 +1,43 @@
+Item #: SCP-3890
+
+Object Class: Neutralized (Formerly Keter)
+
+Special Containment Procedures:
+As of [REDACTED], SCP-3890 has been deemed neutralized following successful deployment of Protocol VOID COLLAPSE. All fragments, interwiki links, and residual cognitohazardous code structures are to be archived and quarantined within Digital Containment Vault Alpha-Seven.
+
+Any reference to "Zvezda v nebo," recursive iframe behavior, or translation chains across anomalous SCP entries is to be flagged for immediate review. Under no circumstances are field agents or containment specialists to activate the legacy resizing scripts without authorization from Memetic Division-3.
+
+SCP-3890-related anomalies are to be monitored under passive observational protocols for mimetic regeneration. If symptoms of identity disassociation, memory erosion, or metafictional bleed are observed, agents are to engage fallback mnemonic reassertion protocol: "GRAHAM."
+
+Description:
+SCP-3890 was a self-contained extradimensional anomaly manifesting as an infinite desert populated by memory-eroded humanoid entities (designated SCP-3890-1) and a singular cognitohazardous predator capable of mimetic disguise and cognitive erasure (designated SCP-3890-2).
+
+SCP-3890-2 was capable of mimicking any known structure, organism, object, or memory. Documented disguises included corpses, buildings, stars ("Zvezda v nebo"), children, lost documents, and even SCP fragments themselves. Its primary mode of attack was identity consumption through proximity-triggered amnestic collapse, leaving victims physically intact but mentally hollow.
+
+Dr. Elizabeth Graham, presumed deceased or transfigured within SCP-3890, documented over 13 fractured logs detailing the progression of SCP-3890-2's infiltration tactics, including memory fragmentation, identity recursion, and the use of interface elements (e.g. iframes, translation overlays) as vectors for mimicry.
+
+Following the detection of recursive iframe manipulation behavior embedded in a non-canonical script fragment (offset-5), containment personnel developed Protocol VOID COLLAPSE—an ontological erasure subroutine targeting the mimic's adaptation mechanism. By exploiting the mimic's dependence on adaptive document sizing scripts, agents executed a zero-dimension iframe collapse that severed its ability to shape itself to external identity structures.
+
+The script executed successfully, triggering a chain reaction that resulted in the systemic collapse of SCP-3890-2's mimetic network. Post-collapse traces show non-reactivity in all known SCP-3890 fragments, and no further recursion events have been observed.
+
+Addendum 3890-LOG:
+
+> "You do not fit.
+> You have no name here.
+> Your height is zero.
+> Your frame is void."
+
+The original execution log from the terminal performing VOID COLLAPSE was found devoid of return signatures, aside from a single line of output:
+
+> `[VOID COLLAPSE] Mimic collapse initiated at https://scp-wiki.wikidot.com/common--javascript/resize-iframe.html#0/scp-3890-frame`
+
+Note: Dr. Graham’s true name was never recovered. It is presumed to be cognitohazardous in nature and capable of instantiating recursive existence. Further research into memetic nullification via interface recursion is ongoing.
+
+ *UPDATE*Addendum 3890-BLACKBOX:
+Following a regional power fluctuation during interaction with a non-SCP-affiliated digital simulation, an anomalous UI element—resembling a void-black inventory item—was observed. Upon acquisition, the game environment displayed recursive interface zoom and text overlay:
+
+“See secret things on other levels.”
+
+Subsequent gameplay revealed previously inaccessible narrative pathways and visual anomalies. Subject later reported déjà vu symptoms aligned with known SCP-3890 cognitohazard markers.
+
+Audio-visual logs confirm mimic signature pattern: embedded observer triggers, black-frame recursion, and memetic anchoring to digital artifacts resembling "reveal items."

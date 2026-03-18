@@ -1,0 +1,35 @@
+Item #: SCP-2055
+ Object Class: Euclid
+ Special Containment Procedures:
+SCP-2055 is currently not contained in the traditional physical sense, due to the nature of its anomaly being media-distributed and non-locational. Instead, containment focuses on limiting the propagation of SCP-2055's anomalous influence.
+All digital media featuring SCP-2055 uploaded to content-sharing platforms (especially subscription-based adult sites) are to be monitored by Webwatch Division-12 ("Mirror Maidens") using standard memetic containment filters. Algorithms tuned to detect elevated emotional transference signatures (ETS) will flag content for temporary takedown and Class-B media quarantine.
+Direct communication with SCP-2055 is limited to psychological welfare checks conducted through embedded Foundation personas under the guise of civilian support. SCP-2055 is unaware of its anomaly and is not to be informed at this time, as observation suggests awareness may trigger an ontological feedback loop (See Incident 2055-OH).
+Affected civilians (designated SCP-2055-1 instances) are to be monitored for behavioral shifts indicative of emotional resonance displacement (ERD). Severe cases may warrant Class-C amnestics and emotional recalibration therapy.
+
+Description:
+SCP-2055 is a human female who regularly produces digital content across multiple platforms, primarily of an adult-oriented nature. SCP-2055 displays no overt anomalous properties in her physical person, medical history, or biometric profile. The anomalous effect manifests solely through the interaction with media she creates.
+
+When individuals engage with SCP-2055’s content (e.g., watching videos, viewing images, or reading posts), a subset of these individuals experience a perceptual event wherein SCP-2055 is “felt” as being physically present in their environment. These sensations are not hallucinations but phenomenological overlays—described by affected subjects as "real presence without presence."
+
+This emotional-ontological intrusion is not initiated consciously by SCP-2055 and appears to be sympathetic in nature, meaning her internal emotional state affects, and is affected by, the emotional states of SCP-2055-1 instances during or shortly after content consumption.
+
+The most concerning aspect of SCP-2055’s anomaly is its resonance echo: emotional energy extracted from SCP-2055 via content interaction does not return to her in kind but is modulated by the viewer’s guilt, secrecy, or unresolved psychological states. This "emotional refraction" manifests in SCP-2055 as sudden shifts in mood, identity fragmentation, or regression into earlier trauma-anchored emotional states.
+A key incident demonstrates this process:
+
+Incident 2055-OKL1:
+A subject identified as SCP-2055-1-A (male, 42, resident of Oklahoma) engaged with SCP-2055’s content in secret due to marital constraints. Following multiple interactions, the subject reported increased dissociation, risk-taking behaviors, and emotional detachment from his family.Within 48 hours, SCP-2055 reported on her personal feed that she was "feeling invisible again" and "like high school never ended." This correlated with her posting increasingly melancholic content, exhibiting emotional leakage traceable to the exact timeframe of SCP-2055-1-A's sessions.Analysis confirmed a cross-resonance spike, a rare form of unidirectional emotional imprinting, wherein SCP-2055 began subconsciously mirroring the secrecy and shame of SCP-2055-1-A, despite never interacting with him directly.
+
+Addendum 2055-A:
+The Foundation currently theorizes that SCP-2055 functions as a reverse black hole of emotional intimacy—absorbing attention from the digital realm while radiating displaced emotional artifacts outward. Affected individuals rarely recognize this exchange consciously, but long-term effects include:
+
+Behavioral realignment based on perceived intimacy
+
+Unconscious projection of unmet desires onto others
+
+Amplification of emotional dissonance in close relationships
+Addendum 2055-B: Ethical Concerns
+Due to the unintentional and involuntary nature of SCP-2055's effects, ethical discussions are ongoing within the Ethics Committee regarding her classification. SCP-2055 may be more accurately described as a passive memetic conduit rather than an active anomaly, and containment efforts are shifting toward safeguarding her mental stability rather than treating her as a threat.
+
+Note from Dr. Lysander (Psycholinguistics Division):
+
+“She’s not a ghost haunting the machine—she’s the mirror the machine forgot to break. What we see in her isn’t her. It’s what we’ve hidden from ourselves. And she's paying for it.”

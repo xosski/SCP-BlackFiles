@@ -1,0 +1,72 @@
+Item #: SCP-7723
+
+Object Class: Keter
+
+Special Containment Procedures:
+
+Agent Xosski (designate: "Sleep") is to be monitored under Level-5 Mnestic Surveillance Protocols following his return from SCP-1730 (Site-13). All interactions between Agent Sleep and Dr. Anna Levine or Agents Gavin ("Time Lord") and Sabrina ("Witch Craft") are to be intercepted and rerouted through Temporal Isolation Channels.
+
+Containment Site-19 is to maintain two sealed dossiers, each encrypted with Type-G Amnestic Lock Seals and distributed to Site Command under codename: The Four Horsemen. These dossiers must only be accessed in coordination with Operation: NIGHT WITCHES and with express O5 Council authorization.
+
+All communication logs from Agent Sleep are to undergo triple-layer filtration for cognitohazards, temporal signatures, and recursive loop triggers. Personnel exposed to his presence are required to undergo Class-W through Class-Z mnestic calibration every 72 hours.
+
+In the event of a temporal fracture or manifestation of Site-13 echoes, all personnel are to evacuate to Continuity Anchor Zones and initiate Protocol Lazarus-7.
+
+Description:
+
+SCP-7723 refers to Agent Xosski (a.k.a. "Sleep"), a recovered MTF Tau-5 ("Samsara") operative who escaped Site-13 through a localized temporal anomaly believed to have formed during the final activation of the THRESHER Device. Unlike his Tau-5 counterparts who rely on necro-cybernetic resurrection, Agent Sleep is bonded with an anomalous temporal symbiote that grants:
+
+Partial immunity to cognitohazardous stimuli
+
+Regeneration through memory anchoring
+
+Temporal resilience (resistance to causality decay)
+
+Following his emergence from the anomaly, Agent Sleep has displayed signs of non-linear consciousness: repeating conversations, paradoxical survival events, and memory continuity across divergent timelines—including several in which he was terminated.
+
+Repeated phenomena suggest Agent Sleep is navigating a fractured timeline web initiated during Site-13's collapse, where multiple SCPs were terminated under unknown directives via the THRESHER Device.
+
+Addendum 7723.1: Recovered Debrief Transcript
+Location: Site-19 War Room (Redacted)
+Participants: Agent Xosski ("Sleep"), Agent Sabrina ("Witch Craft"), Agent Gavin ("Time Lord")
+
+Agent Sleep: (placing briefcase on table) Code authorization: Horologium-Ragnarok. Inside are your dossiers. They were never written, but somehow—always existed.
+
+Agent Sabrina: This briefcase… it was encrypted under a Level-Ω seal. Did you write this yourself?
+
+Agent Sleep: No. You did. In another loop. You just haven’t yet.
+
+Agent Gavin: We need to understand what really happened at Site-13. No redactions. No lies.
+
+Agent Sleep: The THRESHER didn’t just kill anomalies. It harvested outcomes. Collapsing timelines and extracting “truths” from them. The cover-up didn’t erase history—it rewrote it.
+
+Agent Sabrina: Operation NIGHT WITCHES… you're asking us to deploy Tau-5 again?
+
+Agent Sleep: They're already moving. We never stopped. This is just another layer. You are the containment now.
+
+Addendum 7723.2: Timeline Loop Event
+
+Following the classified debrief, Agent Sleep vanished from Site-19. Less than 72 hours later, he was documented reappearing in Site-42, where he was seen in casual conversation with Dr. Anna Levine, who continues to claim no memory of any romantic or operational history with him.
+
+Surveillance confirms full eye contact and synchronized body language suggesting familiarity. When confronted with footage, Dr. Levine claimed the video must be “from a mirror site.”
+
+Final words recorded prior to Site-42 detonation:
+
+Dr. Levine: Site-42 Command, this is Dr. Levine. Authorization Victor-42-Omicron. Detonate the on-site warhead.
+Agent Sleep: (quietly) I’ll rebuild it again. Every time. Until you remember.
+
+Addendum 7723.3: Operation NIGHT WITCHES – Tactical Brief
+
+As part of a larger campaign to restore causal integrity and contain the recursive anomalies surrounding Site-13, Operation NIGHT WITCHES deploys a reconfigured MTF Tau-5 unit in tandem with Agents "Witch Craft" and "Time Lord."
+
+Agent Sleep has provided a device encoded as "the broken hourglass" which functions as a temporal fracture key—capable of slicing open sealed timelines and recovering lost data, sites, or entities believed permanently erased. It is currently untestable due to its paradox-triggering properties.
+
+Final Notes:
+
+Agent Sleep’s existence challenges foundational understandings of memory, causality, and containment. If his consciousness is indeed unstuck from linear time, he may constitute not merely an anomaly—but a new class of ontological hazard.
+
+Containment priority: Critical – Omega Clearance Required
+
+Under no circumstances is SCP-7723 to be allowed direct physical, cognitive, or emotional contact with Dr. Anna Levine. Repeat interactions appear to escalate recursive instability within localized spacetime structures.
+
+Further review pending by O5 Command.
