@@ -1,0 +1,199 @@
+Item #: SCP-7148
+Object Class: Keter
+Disruption Class: Ekhi
+Risk Class: Warning
+
+Special Containment Procedures:
+All known audio files of SCP-7148 are to be stored exclusively on Foundation air-gapped archival systems at Site-15 and Site-88. Civilian-facing instances are to be suppressed through Foundation front companies embedded in music distribution services, lyrics-hosting platforms, social media copyright partners, and digital archival crawlers.
+
+Under no circumstances are personnel to read, recite, transcribe, or display the unperformed lyric block associated with SCP-7148 in any complete form. Partial exposure beyond six contiguous words requires immediate Class-B mnestic stabilization and 72-hour observation.
+
+MTF Omega-1 (“Law’s Left Hand”) is assigned primary enforcement jurisdiction for all civilian suppression, judicial interference, contractual seizure, and cultural quarantine actions involving SCP-7148. Foundation policy classifies dissemination of the unperformed lyric block as a cognitohazardous publication offense under Internal Memetic Statute 4.19.
+
+Public references to “missing lyrics,” “alternate bridge text,” “metadata verses,” or “the part that isn’t sung but is still printed” are to be flagged by RAISA web crawlers. Any private individual attempting reconstruction of the missing stanza is to be detained, amnesticized, and interviewed.
+
+No karaoke, acapella, instrumental, slowed/reverb, live-acoustic, orchestral, fan-edited, or AI-generated cover of SCP-7148 may be produced without O5 authorization.
+
+Description:
+
+SCP-7148 is a commercially released pop song first distributed on multiple streaming platforms on 2026/04/17. In all known public audio versions, SCP-7148 presents as an otherwise ordinary chart-oriented song concerning intimacy, transcendence, and the conflation of erotic fixation with religious imagery.
+
+The anomalous properties of SCP-7148 do not originate in the audio itself.
+
+The hazard manifests through a block of official printed lyrics attached to the song’s metadata, publishing packets, and synchronization licensing materials. This block appears in all verified lyric records for SCP-7148, but is never actually performed in any released version of the song. No vocal take, backing track, instrumental stem, live session, rehearsal file, or studio outtake recovered to date contains the section in audible form.
+
+This omitted stanza is designated SCP-7148-B.
+
+When an individual encounters SCP-7148-A (the song) and subsequently reads SCP-7148-B (the omitted stanza), they begin to experience progressive location-binding cognition, in which mundane private spaces become symbolically and emotionally fused with the song’s core themes. Affected subjects report that intimate settings — kitchens, vehicles, bedrooms, bathrooms, streets, and transitional domestic spaces — no longer feel like locations, but like ritual stages already prepared for them.
+
+As exposure deepens, subjects increasingly believe that:
+
+private environments have been “waiting” for a specific act to occur,
+
+desire is not personal but architectural,
+
+repetition of a place-name causes that place to become spiritually “thinner,”
+
+and the song is incomplete until lived physically.
+
+This culminates in 7148-Event states, in which exposed persons attempt to reenact the omitted stanza across multiple locations in rapid sequence, often describing themselves as “following the track list into the room.”
+
+These behaviors are accompanied by:
+
+compulsive movement between intimate/domestic sites,
+
+fixation on mirrored surfaces, tile, water fixtures, and parked vehicles,
+
+reports of euphoric dread,
+
+repeated verbal pairing of profanity with devotional language,
+
+and the persistent conviction that “Heaven is not above, only misplaced.”
+
+The memetic strength of SCP-7148-B is substantially amplified when:
+
+the subject has recently listened to SCP-7148-A,
+
+the text is encountered in a lyric-hosting format,
+
+the subject is alone,
+
+the text is read aloud in a whisper,
+
+or the subject believes the missing stanza was “never meant to be seen.”
+
+Addendum 7148.1 — Foundation Discovery
+
+SCP-7148 came to Foundation attention after a cluster of unrelated civilian incidents across three cities involved individuals trespassing into private residences, parked vehicles, hotel bathrooms, and restaurant kitchens while repeating the title phrase of the song and insisting they were “finishing the hidden part.”
+
+In all cases, subjects had interacted with:
+
+official lyric sites,
+
+fan annotation pages,
+
+leaked publishing PDFs,
+
+or subtitled short-form video edits displaying the unsung text.
+
+Initial police reports classified the events as narcotics-related psychosis, erotic mania, or coordinated social media dares. Foundation embedded agents flagged the incidents when six separate subjects, none of whom knew each other, used the phrase:
+
+“It isn’t a verse. It’s a map.”
+
+Omega-1 was tasked after two civil judges, one music publisher, and a municipal records clerk began exhibiting parallel symptoms following evidence review.
+
+Addendum 7148.2 — Anomalous Characteristics of SCP-7148-B
+
+Recovered testimony indicates the omitted stanza is dangerous not because of any individual line, but because of its structure.
+
+Memetic analysis suggests SCP-7148-B functions as:
+
+a litany of locations,
+
+paired with escalating intimacy language,
+
+framed by alternating reverence and degradation,
+
+producing a ritualistic collapse of public/private distinctions.
+
+In effect, the stanza teaches the reader that:
+
+every private place is already consecrated,
+
+every act is already remembered,
+
+and movement through domestic space is a sacrament of repetition.
+
+Dr. E. Lasky, Memetics Division, summarized the hazard as follows:
+
+Most dangerous songs tell you what to feel.
+This one tells you where feeling has already happened.
+That is much worse.
+
+Addendum 7148.3 — Omega-1 Field Summary
+
+Unit: MTF Omega-1 (“Law’s Left Hand”)
+Operation: QUIET CHOIR
+Objective: Seizure of lyric-distribution materials from publishing intermediary in Newark, NJ.
+
+Field Notes:
+
+The target office appeared abandoned on arrival. Three employees were later found in separate rooms, each having manually rewritten fragments of SCP-7148-B onto legal pads, invoice slips, and restroom maintenance logs.
+
+The disturbing feature was not the content, but the placement:
+
+the receptionist wrote only in the office kitchen,
+
+the licensing analyst wrote only inside parked cars in the garage structure,
+
+and the records manager locked herself in a staff bathroom while repeatedly insisting she was “on the bridge now.”
+
+When Omega-1 entered the archive floor, all work terminals were open to the same lyric-management page. The unsung stanza had been highlighted, copied, deleted, restored, and re-saved 218 times across 43 minutes.
+
+Recovered radio transcript:
+
+OMEGA-1-1: Visual on terminals. It’s the same block everywhere.
+OMEGA-1-2: Audio files are clean. No matching vocal stem.
+OMEGA-1-1: Then why print it?
+OMEGA-1-3: Because printing is the performance.
+
+At 19:14 local time, the records manager attempted to leave containment while singing the song’s chorus. When she reached the omitted section, she became unable to vocalize further, yet nearby personnel reported “hearing” the missing words as environmental implication rather than sound. Three agents immediately experienced disorientation and incorrectly identified adjacent rooms as “more intimate versions” of themselves.
+
+Omega-1 enacted emergency silence protocol. The subject was sedated and removed.
+
+Following the raid, all publishing materials were seized under cover of intellectual property litigation.
+
+Addendum 7148.4 — Interview Log
+
+Interviewed: PoI-7148-4, assistant metadata editor
+Interviewer: Agent S. Vale, Omega-1
+Foreword: Subject had not heard the song more than twice, but had repeatedly handled official lyric documentation.
+
+Agent Vale: You never heard the missing lines sung?
+PoI-7148-4: No.
+
+Agent Vale: Then why were you afraid of them?
+PoI-7148-4: Because they looked sung.
+
+Agent Vale: Explain that.
+PoI-7148-4: You know how lyrics usually wait for music to happen to them? These didn’t. They already felt completed. Like they didn’t need the singer. Like the room would do it.
+
+Agent Vale: The room would do what?
+PoI-7148-4: Make it true.
+
+Agent Vale: True how?
+PoI-7148-4: Every place started feeling implicated. I couldn’t stand in my kitchen without thinking something had happened there before I got there. Not memory. Permission.
+
+Agent Vale: Permission from whom?
+PoI-7148-4: I don’t know. That’s what scared me. It didn’t feel like a person. It felt like formatting.
+
+End Log
+
+Addendum 7148.5 — Internal Memorandum
+
+From: RAISA Memetic Review Board
+To: Omega-1 Command, Site-15 Director
+Subject: Why Omega-1
+
+This case has been mischaracterized by junior staff as a music hazard.
+It is not.
+
+SCP-7148 is a legal hazard that became memetic.
+
+The anomaly spreads through documentation chains: metadata sheets, publisher packets, rights clearances, synchronized lyric databases, subtitling exports, annotation platforms, moderation copies, deposition exhibits. It enters the world through the boring machinery of authorized text.
+
+Omega-1 was assigned because the danger does not come from art escaping control. It comes from control itself reproducing the infection perfectly, lawfully, and at scale.
+
+In this case, the Left Hand of the Law was required because the law was the vector.
+
+Addendum 7148.6 — Current Status
+
+The original songwriter, producer, mastering engineer, and label representatives have all denied knowledge of why SCP-7148-B appears in the official lyric materials. Draft history recovered from a publishing subcontractor indicates the omitted stanza was present in the earliest text version of the song, then removed from every performance revision while remaining embedded in rights-management exports.
+
+When asked whether the stanza was intended to be sung, one affected editor gave the following statement before amnestic treatment:
+
+“No. Sung would have been safer.”
+
+All requests to test a version of SCP-7148 in which the omitted stanza is audibly performed have been denied.
+
+By unanimous Ethics Committee recommendation, this denial is permanent.
